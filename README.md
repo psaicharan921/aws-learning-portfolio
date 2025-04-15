@@ -30,19 +30,7 @@ Managed security credentials, MFA, and IAM users via CLI. Handled access key err
 ### ✅ 7. VPC & Subnet Configuration
 Created custom VPCs with subnets using CloudFormation, deployed proxy instances, and tested IPv4 access and networking teardown.
 
----
 
-## 🗂️ Folder Structure
-
-```bash
-aws-learning-portfolio/
-├── docs/                # PDF Reports of all tasks
-├── src/                 # CLI commands, SDK scripts (if any)
-├── screenshots/         # Images from AWS Console and CLI outputs
-└── README.md
-```
-
----
 
 ## 🙋‍♂️ Author
 **Sai Charan Pasupuleti**  
